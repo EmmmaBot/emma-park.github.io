@@ -3,22 +3,16 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Emma Park
+Machine Learning / Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+yeonsoop@example.com
 
 Location
-Sacramento, California, USA
+Los Angeles, California, USA
 
 # navbar
 
